@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="arceus-fighting-pokemon.gif" alt="Arceus" width="150" style="margin-right: 10px;"/>
-  <img src="gengar.gif" alt="Gengar" width="150"/>
+  <img src="gastly-haunter-gengar-laughing-ukcigo9keoa16id2.webp" alt="Gengar" width="150"/>
 </p>
 
 
