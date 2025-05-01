@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Natexploiter%20Error404&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Natexploiter%20404&textBg=false&fontColor=32004A&fontAlign=50&desc=Programming%20Live%20Style&descSize=20&animation=twinkling" />
 
 <p align="center">
   <img src="arceus-fighting-pokemon.gif" alt="Arceus" width="150" style="margin-right: 10px;"/>
